@@ -1,0 +1,9 @@
+In this file, I mention the key points I learned from the Git and GitHub course provided by pathy.
+
+1. I learned about Git and how it is an important tool that is required for many jobs.
+
+2. I learned more about GitHub and discovered many of its features and services that I was not previously aware of.
+
+3. I learned how to install and use Git and how to connect it with Visual Studio Code.
+
+I am very happy that I took this course and gained this valuable knowledge.
