@@ -7,3 +7,4 @@ In this file, I mention the key points I learned from the Git and GitHub course 
 3. I learned how to install and use Git and how to connect it with Visual Studio Code.
 
 I am very happy that I took this course and gained this valuable knowledge.
+---
